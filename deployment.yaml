@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: chatbot
-        image: gcr.io/[YOUR_PROJECT_ID]/chatbot:v1 
+        image: gcr.io/genuine-park-346714/chatbot:v1 
         ports:
         - containerPort: 8080
